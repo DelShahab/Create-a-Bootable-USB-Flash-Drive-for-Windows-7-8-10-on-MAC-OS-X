@@ -2,7 +2,7 @@
 Create a Bootable USB Flash Drive for Windows 7/8/10 on MAC OS X
 
 
-!! Remove the usb flash drive for now !!
+!! Plugin the usb flash drive for now !!
 
 ***** Step 1 ****
 hit space and command at the same time.
